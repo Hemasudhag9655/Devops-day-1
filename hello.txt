@@ -2,5 +2,5 @@ Hello, This is basic intro for Devops.
 
 Devops = development + operation teams.
 
-It can be used for working together instead of silos.
+
 
