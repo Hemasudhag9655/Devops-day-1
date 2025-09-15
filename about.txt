@@ -1,0 +1,4 @@
+Hackathon 
+Devops
+It can be done by using GitHub.
+It contain 8 phases.
